@@ -1,0 +1,8 @@
+.grids {
+    display: grid; 
+    grid-template-columns: auto auto;
+}
+
+.pic-size {
+    width: 200px;
+}
